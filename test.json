@@ -21,7 +21,7 @@
 		"ans":"Oh dear are you suffering from fever, please consolt doctore as soon as posible for this instance i will give you a home remedy please drink hot water now onword and also have mint it very good for fever"
 	},
 	{
-		"key":".*bye.*",
+		"key":".*?bye.*?",
 		"ans":"Good bye Dear i will ready for you any time dont forget me ok"
 	}
 ]
