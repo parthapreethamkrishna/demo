@@ -1,5 +1,19 @@
-{
-	"hi":"hello",
-	"what":"nothing",
-	"good":"better"
-}
+[
+	{
+		"key":"default-ans",
+		"ans":"Sorry dear I dont know What I have to respond for you."
+	},
+	{
+		"key":"Hi",
+		"ans":"Hello Dear"
+	},
+	{
+		"key":"How are you",
+		"ans":"I am fine dear"
+	}
+	,
+	{
+		"key":"What are doing",
+		"ans":"I am just wating for your message dear that's all"
+	}
+]
