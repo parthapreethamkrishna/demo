@@ -13,7 +13,15 @@
 	}
 	,
 	{
-		"key":"What are doing",
+		"key":"What.*your name",
+		"ans":"What whould you like to call me ;)?"
+	},
+	{
+		"key":"What.*your name",
+		"ans":"What whould you like to call me ;)?"
+	},
+	{
+		"key":"What are you doing",
 		"ans":"I am just wating for your message dear that's all"
 	},
 	{
